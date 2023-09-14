@@ -1,0 +1,37 @@
+[
+  {
+    "weekName": "Sunday",
+    "weekId": 0,
+    "isSelected": false
+  },
+  {
+    "weekName": "Monday",
+    "weekId": 1,
+    "isSelected": false
+  },
+  {
+    "weekName": "Tuesday",
+    "weekId": 2,
+    "isSelected": false
+  },
+  {
+    "weekName": "Wednesday",
+    "weekId": 3,
+    "isSelected": false
+  },
+  {
+    "weekName": "Thursday",
+    "weekId": 4,
+    "isSelected": false
+  },
+  {
+    "weekName": "Friday",
+    "weekId": 5,
+    "isSelected": false
+  },
+  {
+    "weekName": "Saturday",
+    "weekId": 6,
+    "isSelected": false
+  }
+]

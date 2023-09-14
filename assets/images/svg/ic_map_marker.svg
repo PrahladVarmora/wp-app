@@ -1,0 +1,8 @@
+<svg height="41" viewBox="0 0 30 41" width="30" xmlns="http://www.w3.org/2000/svg">
+    <g data-name="Group 359" transform="translate(-210 -189)">
+        <circle style="fill:#0b7fff" cx="15" cy="15" data-name="Ellipse 5" r="15"
+            transform="translate(210 189)" />
+        <path style="fill:none;stroke:#0b7fff;stroke-linecap:round;stroke-width:2px" d="M0 0v10"
+            data-name="Line 1" transform="translate(225 219)" />
+    </g>
+</svg>

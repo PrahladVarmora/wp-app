@@ -1,0 +1,92 @@
+ setup
+#1 Resolve "Common Color Changes"
+#2 Resolve "Sign In screen UI design"
+#3 Resolve "feature/WPA-43-clone---technician---sign-up"
+#4 Resolve "feature/WPA-48-clone---technician---Forgot-Password"
+WPA-44 UI - Technician - OTP Verification
+WPA-49    Resolve "feature/WPA-49-ui---technician---password-reset-"
+WPA-76 UI: Home Screen
+WPA-60 Splash Update
+WPA-52 UI - Technician - List of Jobs
+WPA-75 UI - Technician - Log Out
+WPA-46-UI - Technician-kyc-background
+WPA-45 UI: Technician - Profile Completion
+WPA-69-UI - Technician-change-password
+WPA-77 UI: Toggle Button
+WPA-93-UI - Technician--wallet
+WPA-86 UI: Map View
+WPA-78 UI: Edit Profile
+WPA-101 UI: Technician - List of Chats
+WPA-64 UI: Technician - Add Job
+WPA-102 UI: Technician - Chat Details
+WPA-61 UI - Technician - List of Invoices
+WPA-103 UI - Technician - Invoice Details
+WPA-79 UI: Job History
+WPA-89 UI: Send Job Updates
+WPA-85 UI: My Job Card - Before Accepted
+WPA-88 UI: My Job Card - Accepted
+#5 Resolve "feature/login_api_integration"
+#6 Resolve "feature/signup_api_integration"
+#7 Resolve "feature/forgot_password_api_integration"
+#8 Resolve "feature/reset_password_api_implementation"
+#9 Resolve "feature/api_verify_access_token"
+#10 Resolve "feature/otp_verify_forgot_password"
+#11 Resolve "feature/get_profile_api"
+PR - 39: Jira Bug Fixing for UI and client changes done in UI
+#12: Resolve feature/update_profile_api
+#13: Resolve feature/update_profile_api
+#14: Resolve feature/update_job_api
+#14: Resolve feature/job_reject_api
+WPA-2 Technician - Sign Up api
+WPA-153 Clock In / Clock Out Toggle Button API and Update Status
+WPA-3 Technician - OTP Verification
+WPA-168 Bug Fix
+WPA-174 Update Dispatcher
+WPA-20 Technician - Add Invoice
+WPA-176 Sources Providers List API
+WPA-177 Select Category List API
+WPA-21 Technician - Add Job
+WPA-183 Change Job Priority
+# add-job-bugs fixing
+WPA-187 Update Availability from My Account
+WPA-190 Update Company from My Account
+WPA-189 Bug Fix: Error while selecting starting time
+WPA-191 Send Invoice API
+WPA-193 Upload Job Images
+WPA-195 Update Live Location
+WPA-196 Client Feedback 7th Jun
+WPA-200 Validation, Response message should be attractive like pop-up (instead of bottom message)
+WPA-207 Technician - Collect Payment Cash
+WPA-208 Job Types Filter API List
+WPA-214 Update Invoice
+WPA-148 Technician - Close Job
+WPA-219 Request Pay via SMS/Email
+# hot fix
+WPA-229 Charge Now Payment
+WPA-230 Client Feedback Changes for 14th Jun
+WPA-231 Edit Personal Details
+WPA-232 Edit Professional Details
+WPA-242 Partial Payment
+WPA-247 issue fixed
+WPA-251 issue fixed
+WPA-254 Setup Strip Account
+WPA-255 Request Money
+WPA-256 Send Money to other Technician
+WPA-257 List of Transactions
+# bug fixing 19th jun
+WPA-262 Download PDF (Transactions)
+WPA-264 Client Feedback Changes for 20th Jun
+WPA-275 Wallet: Add Money Wallet
+WPA-277 Accept/Reject Request
+# Hot Fix 23 Jun
+# runtime-bug-fix-23-jun
+WPA-288 Read Notification and Redirection
+WPA-289 Clear Notification List
+# iOS Notification Setup
+# Bug Fix 28th June
+WPA-291 Issue Fixed
+WPA-299 Optimise route google maps
+# client feedback and improvement
+WPU-14-when-saving-skills
+# resolve error msg issue while try to save skills
+WPA-302 Delete Account API

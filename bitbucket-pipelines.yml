@@ -1,0 +1,22 @@
+# This is an example Starter pipeline configuration
+# Use a skeleton to build, test and deploy using manual and parallel steps
+# -----
+# You can specify a custom docker image from Docker Hub as your build environment.
+
+#image: cirruslabs/flutter:3.10.0
+#image: cirrusci/flutter:latest
+#image: cirrusci/flutter:stable
+image: mobiledevops/flutter-sdk-image:latest
+#image: flutter-base:latest
+pipelines:
+
+  default:
+    - step:
+        name: 'Lint'
+        script:
+          - pwd
+          - flutter pub get
+          - flutter analyze
+
+
+

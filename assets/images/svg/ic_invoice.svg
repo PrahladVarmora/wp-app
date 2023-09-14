@@ -1,0 +1,30 @@
+<svg id="invoice" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <g data-name="05-bill">
+        <rect fill="none" height="8" stroke="#000" stroke-linejoin="round" stroke-width="2"
+            width="32" x="16" y="9"></rect>
+        <polyline fill="none" points="36 59 16 59 16 49 48 49 48 59 42 59" stroke="#000"
+            stroke-linejoin="round" stroke-width="2"></polyline>
+        <line fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" x1="40" x2="38"
+            y1="59" y2="59"></line>
+        <polygon fill="none"
+            points="52 1 52 63 12 63 12 1 16 5 20 1 24 5 28 1 32 5 36 1 40 5 44 1 48 5 52 1"
+            stroke="#000" stroke-linejoin="round" stroke-width="2"></polygon>
+        <path
+            d="M29,28h0a2,2,0,0,0,2,2h2a2,2,0,0,0,2-2h0a2,2,0,0,0-2-2H31a2,2,0,0,1-2-2h0a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2h0"
+            fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"></path>
+        <line fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" x1="32" x2="32"
+            y1="22" y2="20"></line>
+        <line fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" x1="32" x2="32"
+            y1="32" y2="30"></line>
+        <line fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" x1="15" x2="17"
+            y1="36" y2="36"></line>
+        <line fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" x1="19" x2="21"
+            y1="36" y2="36"></line>
+        <line fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" x1="23" x2="49"
+            y1="36" y2="36"></line>
+        <line fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" x1="15" x2="49"
+            y1="40" y2="40"></line>
+        <line fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" x1="15" x2="49"
+            y1="44" y2="44"></line>
+    </g>
+</svg>

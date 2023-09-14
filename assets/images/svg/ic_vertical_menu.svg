@@ -1,0 +1,9 @@
+<svg data-name="Component 29 – 3" height="20" viewBox="0 0 20 20" width="20"
+    xmlns="http://www.w3.org/2000/svg">
+    <path style="fill:#fff" d="M13 15.308A2.308 2.308 0 1 0 15.308 13 2.311 2.311 0 0 0 13 15.308z"
+        transform="translate(-5 -5.308)" />
+    <path style="fill:#fff" d="M13 25.308A2.308 2.308 0 1 0 15.308 23 2.311 2.311 0 0 0 13 25.308z"
+        transform="translate(-5 -7.615)" />
+    <path style="fill:#fff" d="M13 5.308A2.308 2.308 0 1 0 15.308 3 2.311 2.311 0 0 0 13 5.308z"
+        transform="translate(-5 -3)" />
+</svg>

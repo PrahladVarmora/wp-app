@@ -1,0 +1,136 @@
+name: we_pro
+description: Using this platform On-field technicians can receive jobs, manage jobs, collect payments, contact customers, manage wallets, and transfer money to other registered users.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: 1.0.5
+  # For API calling
+  http: 0.13.6
+
+  # For Bloc
+  flutter_bloc: 8.1.3
+  equatable: 2.0.5
+
+  #provider:
+  provider: 6.0.5
+
+  # For Data store
+  shared_preferences: 2.2.0
+
+  # For SVG Image
+  flutter_svg: 2.0.7
+
+  # For Google maps
+  google_maps_flutter: 2.4.0
+  google_api_headers: 2.0.0
+  google_maps_webservice: 0.0.20-nullsafety.5
+  flutter_polyline_points: 1.0.0
+  #  google_maps_webservice:
+  #    git:
+  #      url: https://github.com/darshanvachhani08/google_maps_webservice
+  #      ref: main
+  pointer_interceptor: 0.9.3+4
+
+  # For file and Image pick
+  image_picker: 1.0.2
+  file_picker: 5.3.3
+  image_cropper: 4.0.1
+  flutter_flavor: 3.1.1
+  intl: 0.18.0
+  hive: 2.2.3
+  hive_flutter: 1.1.0
+  cached_network_image: 3.2.3
+  universal_html: 2.2.3
+  fluttertoast: 8.2.2
+  package_info_plus: 4.1.0
+  connectivity_plus: 4.0.2
+  geolocator: 9.0.2
+  geocoding: 2.1.0
+  url_launcher: 6.1.12
+  firebase_core: 2.15.0
+
+  # For Country Picker
+  country_code_picker: 3.0.0
+
+  # For Pin code fields
+  pin_code_fields: 8.0.1
+
+  # For video Player
+  video_player: 2.7.0
+
+  #For lottie Player
+  lottie: 2.6.0
+
+  # For ToolTrip
+  just_the_tooltip: 0.0.12
+
+  #For web view
+  webviewx: 0.2.2
+  #  webviewx:
+  #    git:
+  #      url: https://github.com/darshanvachhani08/webviewx
+  #      ref: main
+
+  # For Any Chart
+  fl_chart: 0.63.0
+
+  # For Text Show More
+  readmore: 2.2.0
+  dartz: 0.10.1
+  dropdown_button2: 2.3.8
+  tuple: 2.0.2
+  permission_handler: 10.4.3
+  firebase_messaging: ^14.6.5
+  flutter_local_notifications: 15.1.0+1
+  flutter_file_view: 2.2.1
+  printing: 5.11.0
+  background_fetch: 1.2.0
+  background_location: 0.11.8
+  device_info_plus: 9.0.3
+  firebase_crashlytics: ^3.3.4
+
+#  google_directions_api: ^0.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: 2.0.2
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/images/svg/
+    - assets/locale/en.json
+    - assets/fonts/
+    - assets/videos/
+    - assets/images/lottie/
+
+  fonts:
+    - family: MontserratRegular
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
+    - family: MontserratMedium
+      fonts:
+        - asset: assets/fonts/Montserrat-Medium.ttf
+    - family: MontserratSemiBold
+      fonts:
+        - asset: assets/fonts/Montserrat-SemiBold.ttf
+    - family: MontserratBold
+      fonts:
+        - asset: assets/fonts/Montserrat-Bold.ttf

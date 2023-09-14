@@ -1,0 +1,31 @@
+<svg data-name="Component 92 – 1" height="20" id="Component_92_1" viewBox="0 0 20 20" width="20"
+    xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <clipPath id="clip-path">
+            <rect data-name="Rectangle 123" fill="#50e666" height="20" id="Rectangle_123"
+                stroke="#707070" stroke-width="1" transform="translate(-6714 9312)" width="20" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#clip-path)" data-name="Mask Group 20" id="Mask_Group_20"
+        transform="translate(6714 -9312)">
+        <g id="ringing" transform="translate(-6714 9312)">
+            <g data-name="Group 428" id="Group_428">
+                <path
+                    d="M18.333,9.068a.834.834,0,0,1-.833-.833,8.694,8.694,0,0,0-2.563-6.187A.833.833,0,0,1,16.116.869a10.348,10.348,0,0,1,3.051,7.366A.834.834,0,0,1,18.333,9.068Z"
+                    data-name="Path 263" fill="#50e666" id="Path_263" />
+            </g>
+            <g data-name="Group 429" id="Group_429">
+                <path
+                    d="M1.667,9.068a.834.834,0,0,1-.833-.833A10.348,10.348,0,0,1,3.884.869.833.833,0,0,1,5.063,2.048,8.693,8.693,0,0,0,2.5,8.235a.834.834,0,0,1-.833.833Z"
+                    data-name="Path 264" fill="#50e666" id="Path_264" />
+            </g>
+            <g data-name="Group 430" id="Group_430">
+                <path
+                    d="M17.816,14.094a5.582,5.582,0,0,1-1.982-4.271V7.5a5.838,5.838,0,0,0-5-5.767v-.9a.833.833,0,0,0-1.667,0v.9a5.837,5.837,0,0,0-5,5.767V9.823A5.588,5.588,0,0,1,2.177,14.1a1.458,1.458,0,0,0,.948,2.566h13.75a1.458,1.458,0,0,0,.941-2.572Z"
+                    data-name="Path 265" fill="#50e666" id="Path_265" />
+                <path d="M10,20a3.13,3.13,0,0,0,3.062-2.5H6.938A3.13,3.13,0,0,0,10,20Z"
+                    data-name="Path 266" fill="#50e666" id="Path_266" />
+            </g>
+        </g>
+    </g>
+</svg>

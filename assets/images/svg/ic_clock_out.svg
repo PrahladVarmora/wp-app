@@ -1,0 +1,13 @@
+<svg data-name="Component 38 – 4" height="40" viewBox="0 0 127 40" width="127"
+    xmlns="http://www.w3.org/2000/svg">
+    <g style="fill:#fff;stroke:#53a533" data-name="Rectangle 5">
+        <rect style="stroke:none" height="40" rx="20" width="127" />
+        <rect style="fill:none" height="39" rx="19.5" width="126" x=".5" y=".5" />
+    </g>
+    <text style="font-size:15px;font-family:Montserrat-Regular,Montserrat;fill:#53a533"
+        data-name="Clock Out" transform="translate(80 26)">
+        <tspan x="-37.132" y="0">Clock Out</tspan>
+    </text>
+    <circle style="fill:#53a533" cx="15" cy="15" data-name="Ellipse 3" r="15"
+        transform="translate(5 5)" />
+</svg>

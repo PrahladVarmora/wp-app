@@ -1,0 +1,27 @@
+<svg height="24.3" viewBox="0 0 22.102 24.3" width="22.102" xmlns="http://www.w3.org/2000/svg">
+    <g data-name="Group 25">
+        <g data-name="Group 24">
+            <path style="stroke:#777778;stroke-width:.3px"
+                d="M4.883-.5A5.383 5.383 0 1 1-.5 4.883 5.389 5.389 0 0 1 4.883-.5zm0 9.623a4.24 4.24 0 1 0-4.24-4.24 4.245 4.245 0 0 0 4.24 4.24z"
+                data-name="Ellipse 6" transform="translate(11.686 13.884)" />
+        </g>
+        <path style="stroke:#777778;stroke-width:.3px"
+            d="m374.207 340.218-1.89-1.12v-3.2h1.143v2.548l1.33.788z" data-name="Path 5"
+            transform="translate(-356.319 -319.98)" />
+    </g>
+    <g data-name="Group 26">
+        <path style="stroke:#777778;stroke-width:.3px"
+            d="M56.367 38.47h-16.4l3.476-23.97h10.113l2.017 13.928-1.131.164-1.875-12.949h-8.135l-3.14 21.684h15.075z"
+            data-name="Path 6" transform="translate(-39.798 -14.35)" />
+        <path style="stroke:#777778;stroke-width:.3px" d="M.643 2.9H-.5V0H.643z" data-name="Line 2"
+            transform="translate(8.615 5.845)" />
+        <path style="stroke:#777778;stroke-width:.3px" d="M.643 2.9H-.5V0H.643z" data-name="Line 3"
+            transform="translate(8.615 10.896)" />
+        <path style="stroke:#777778;stroke-width:.3px" d="M.643 3.184H-.5V0H.643z"
+            data-name="Line 4" transform="translate(8.615 .721)" />
+        <path style="stroke:#777778;stroke-width:.3px" d="M.643 2.943H-.5V0H.643z"
+            data-name="Line 5" transform="translate(8.615 15.727)" />
+        <path style="stroke:#777778;stroke-width:.3px" d="M.643 2.943H-.5V0H.643z"
+            data-name="Line 6" transform="translate(8.615 20.606)" />
+    </g>
+</svg>

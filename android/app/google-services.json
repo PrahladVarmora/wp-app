@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "640591919409",
+    "project_id": "weproinc-5d531",
+    "storage_bucket": "weproinc-5d531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640591919409:android:e7b454eed14bc23da89810",
+        "android_client_info": {
+          "package_name": "com.wepro.technician"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640591919409-7lra3de6a060fud8riqa5k4bnsqohuoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXHlBfasNR28Y27VnUWT6iWaspG-LTDgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640591919409-7lra3de6a060fud8riqa5k4bnsqohuoh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "640591919409-qla2aehkahq54a6h0qlgipaebvghjqig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wepro.technician"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640591919409:android:1189b2b4049340ffa89810",
+        "android_client_info": {
+          "package_name": "com.wepro.technicians"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640591919409-7lra3de6a060fud8riqa5k4bnsqohuoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXHlBfasNR28Y27VnUWT6iWaspG-LTDgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640591919409-7lra3de6a060fud8riqa5k4bnsqohuoh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "640591919409-qla2aehkahq54a6h0qlgipaebvghjqig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wepro.technician"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

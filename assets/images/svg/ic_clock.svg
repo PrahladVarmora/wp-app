@@ -1,0 +1,7 @@
+<svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+    <path style="fill:#777"
+        d="M10 0a10 10 0 1 0 10 10A10.011 10.011 0 0 0 10 0zm0 18.75A8.75 8.75 0 1 1 18.75 10 8.76 8.76 0 0 1 10 18.75z"
+        data-name="Path 176" />
+    <path style="fill:#777" d="M209.044 83.118h-1.25v6.509l3.933 3.933.884-.884-3.567-3.567z"
+        data-name="Path 177" transform="translate(-198.419 -79.368)" />
+</svg>

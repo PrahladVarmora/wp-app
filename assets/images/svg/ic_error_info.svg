@@ -1,0 +1,9 @@
+<svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+    <path style="fill:#c31b1b;fill-rule:evenodd"
+        d="M13 21.889A8.889 8.889 0 1 0 4.111 13 8.889 8.889 0 0 0 13 21.889zM23 13A10 10 0 1 1 13 3a10 10 0 0 1 10 10z"
+        data-name="Path 136" transform="translate(-3 -3)" />
+    <path style="fill:#c31b1b;fill-rule:evenodd" d="M11.5 16.668V10h1.111v6.668z"
+        data-name="Path 137" transform="translate(-2.056 -2.222)" />
+    <path style="fill:#c31b1b;fill-rule:evenodd" d="M11.5 9.112V8h1.111v1.112z" data-name="Path 138"
+        transform="translate(-2.056 -2.444)" />
+</svg>
